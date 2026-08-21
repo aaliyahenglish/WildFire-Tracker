@@ -1,1 +1,1 @@
-# Wildfire Tracker
+# Wildfire Tracker Web Application 
